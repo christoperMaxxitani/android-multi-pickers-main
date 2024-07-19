@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="picture_camera_roll">CameraRoll</string>
+    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
+    <string name="picture_cancel">Batal</string>
+    <string name="picture_take_picture">Foto</string>
+    <string name="picture_rule">bukan gambar atau video</string>
+    <string name="picture_min_video_num">Pemilihan Video Tidak Boleh%1$sNumber</string>
+    <string name="picture_message_max_num">Pilih hingga %1$s gambar</string>
+    <string name="picture_message_audio_max_num">Pilih hingga %1$s Audio</string>
+    <string name="picture_message_video_max_num">Pilih hingga %1$s Video</string>
+    <string name="picture_preview">Pratinjau</string>
+    <string name="picture_please">Silakan nanti…</string>
+    <string name="picture_done_front_num">%1$d/%2$d Oke</string>
+    <string name="picture_completed">Selesai</string>
+    <string name="picture_done">Selesai</string>
+    <string name="picture_please_select">Silahkan Pilih</string>
+    <string name="picture_empty_title">Tidak ada video atau foto\n</string>
+    <string name="picture_empty_audio_title">Tidak ada file audio\n</string>
+    <string name="picture_audio_empty">Anda dapat menggunakan rekaman sistem untuk merekam audio</string>
+    <string name="picture_empty">Anda dapat menggunakan kamera untuk mengambil foto atau video</string>
+    <string name="picture_min_img_num">Pemilihan Gambar Tidak Bisa%1$sNumber</string>
+    <string name="picture_gif_tag">gif</string>
+    <string name="picture_webp_tag">webp</string>
+    <string name="picture_audio">Izin akses ke perekaman sistem ditolak</string>
+    <string name="picture_jurisdiction">Akses baca kartu memori ditolak</string>
+    <string name="picture_camera">Dapatkan izin kamera sistem ditolak</string>
+    <string name="picture_video_toast">Video bukan Pratinjau</string>
+    <string name="picture_record_video">Rekam Video</string>
+    <string name="picture_photograph">Foto</string>
+    <string name="picture_long_chart">Panjang</string>
+    <string name="picture_warning">Tidak ada file Media!</string>
+    <string name="picture_prompt">Permintaan</string>
+    <string name="picture_prompt_content">Apakah Anda ingin menyimpan gambar ke ponsel Anda?</string>
+    <string name="picture_save_error">Penyimpanan gambar gagal</string>
+    <string name="picture_save_success">Simpan gambar berhasil sampai</string>
+    <string name="picture_all_audio">Semua audio</string>
+    <string name="picture_tape">Pita</string>
+    <string name="picture_play_audio">Mainkan</string>
+    <string name="picture_stop_audio">Berhenti</string>
+    <string name="picture_quit_audio">Keluar</string>
+    <string name="picture_pause_audio">Jeda</string>
+    <string name="picture_error">Gambar rusak</string>
+    <string name="picture_video_error">Video rusak</string>
+    <string name="picture_audio_error">Audio rusak</string>
+    <string name="picture_confirm">Konfirmasi</string>
+    <string nama="picture_preview_image_num">%1$d/%2$d</string>
+    <string name="picture_not_crop_data">Tidak ada data yang dipotong</string>
+    <string name="picture_original_image">Asli (%1$s)</string>
+    <string name="picture_default_original_image">Asli</string>
+    <string name="picture_send">Selesai</string>
+    <string name="picture_send_num">Selesai(%1$d/%2$d)</string>
+    <string name="picture_preview_num">Pratinjau(%1$d)</string>
+    <string name="picture_select">Pilih</string>
+    <string name="picture_data_Exception">Dapatkan pengecualian data album…</string>
+    <string name="picture_recording_time_is_short">waktu perekaman terlalu singkat</string>
+    <string name="picture_photo_camera">Foto, foto</string>
+    <string name="picture_choose_max_seconds">Anda hanya dapat memilih video dalam %1$ds</string>
+    <string name="picture_choose_min_seconds">Anda tidak dapat memilih video kurang dari %1$ds</string>
+    <string name="picture_choose_limit_seconds">Hanya video dari %1$ds hingga %2$ds yang dapat dipilih</string>
+
+    <string name="picture_photo_pictures">Ambil Gambar</string>
+    <string name="picture_photo_recording">Tekan Lama Kamera</string>
+    <string name="picture_go_setting">Pengaturan Buka</string>
+    <string name="picture_know">Oke</string>
+    <string name="picture_data_null">Tidak ada data di sini…</string>
+    <string name="picture_editor">Editor</string>
+
+
+    <string name="ucrop_label_original">Asli</string>
+    <string name="ucrop_label_edit_photo">Edit Foto</string>
+
+    <string name="ucrop_menu_crop">Pangkas</string>
+
+    <string name="ucrop_rotate">Putar</string>
+    <string name="ucrop_scale">Skala</string>
+    <string name="ucrop_crop">Pangkas</string>
+
+    <string name="ucrop_gif_tag">gif</string>
+</resources>
